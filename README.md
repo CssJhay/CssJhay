@@ -16,10 +16,9 @@
 
 📫 You can reach me at josepholamide1998@gmail.com.
 
-- 😄 Pronouns: He/Him
 - 🌱 I’m currently learning anything related to Javascript and CA/L & AL Languages.
 - 👓 Yeah I'm also a Graphics Designer, see my collections [here](https://jhayportfolio.tech/collections)
-- 💬 Ask me about JavaScript, CSS, React, Microsoft Dynamics Navison
+- 💬 Ask me about Web Development, CSS, React, Microsoft Dynamics Navison
 - ⚡ Fun fact: I play the Piano 🎹.
 
 
