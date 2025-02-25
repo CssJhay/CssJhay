@@ -1,11 +1,11 @@
 <p align="center">
   <img src="/jhay.png" width="120" />  
-  <h1 align="center"><a href="[https://jhayportfolio.tech/](https://jhayportfolio.com/index.php)">I'm Joseph O. Olamide</a></h1>
+  <h1 align="center"><a href="https://jhayportfolio.com/index.php">I'm Joseph O. Olamide</a></h1>
   <p align="center"> Web(Front End) & System Developer</p>
 </p>
 
 <p align="center">
-  <a href="https://jhayportfolio.tech/">Portfolio</a> | 
+  <a href="https://jhayportfolio.com/index.php">Portfolio</a> | 
   <a href="https://twitter.com/jhaybhoye">Twitter</a> |
   <a href="https://www.linkedin.com/in/joseph-olamide-1948221ab/">LinkedIn</a>
 </p>
