@@ -1,7 +1,7 @@
 <p align="center">
   <img src="/jhay.png" width="120" />  
   <h1 align="center"><a href="https://jhayportfolio.com/index.php">I'm Joseph O. Olamide</a></h1>
-  <p align="center"> Web(Front End) & System Developer</p>
+  <p align="center"> Web Developer& System Developer</p>
 </p>
 
 <p align="center">
