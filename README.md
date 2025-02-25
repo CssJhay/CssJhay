@@ -12,13 +12,12 @@
 
 <br />
 
-💫 I’m a Developer who specializes in developing exceptional digital systems, interfaces and experiences. Currently, I’m focused on building accessible ERP systems at Attain-es (Microsoft Partner). View my [Projects](https://jhayportfolio.tech/#projects), [Experience](https://jhayportfolio.tech/#jobs), [Resumé](https://jhayportfolio.tech/), [Contact Me](https://jhayportfolio.tech/#contact).
+💫 I’m a Developer who specializes in developing exceptional digital systems, interfaces and experiences. Currently, I’m focused on building accessible ERP systems at Attain-es (Microsoft Partner). View my [Projects](https://jhayportfolio.com/projects.php), [Experience](https://jhayportfolio.com/about.php), [Resumé](https://jhayportfolio.com/Joseph-Resume-Web.pdf), [Contact Me](https://jhayportfolio.com/contact.php).
 
 📫 You can reach me at josepholamide1998@gmail.com.
 
-- 🌱 I’m currently learning anything related to Javascript and CA/L & AL Languages.
-- 👓 Yeah I'm also a Graphics Designer, see my collections [here](https://jhayportfolio.tech/collections)
+- 🌱 I’m currently learning anything related to React and CA/L & AL Languages.
+- 👓 Yeah I'm also a Graphics Designer, see my collections [here](https://jhayportfolio.com/collections.php)
 - 💬 Ask me about Web Development, CSS, React, Microsoft Dynamics Navison
 - ⚡ Fun fact: I play the Piano 🎹.
-
 
